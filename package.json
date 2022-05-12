@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gomez50057/API-Fizzbuzz"
+    "url": "https://github.com/gomez50057/Code-Challenge/blob/main/package.json"
   },
   "author": "Gabriel Gomez G",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gomez50057/API-Fizzbuzz"
+    "url": "https://github.com/gomez50057/Code-Challenge/blob/main/package.json"
   },
-  "homepage": "https://github.com/gomez50057/API-Fizzbuzz#readme",
+  "homepage": "https://github.com/gomez50057/Code-Challenge/blob/main/package.json",
   "devDependencies": {
     "eslint": "^8.14.0",
     "jest": "^28.0.3"
